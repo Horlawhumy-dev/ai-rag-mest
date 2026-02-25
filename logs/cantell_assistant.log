@@ -1,0 +1,59 @@
+2026-02-25 09:14:25 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:14:26 - cantell_assistant - INFO - Generating greeting message
+2026-02-25 09:14:28 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:14:29 - cantell_assistant - INFO - Generating greeting message
+2026-02-25 09:14:32 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:14:32 - cantell_assistant - INFO - Generating greeting message
+2026-02-25 09:16:53 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:16:53 - cantell_assistant - INFO - Generating greeting message
+2026-02-25 09:20:16 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:20:16 - cantell_assistant - INFO - Generating greeting message
+2026-02-25 09:21:36 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:21:36 - cantell_assistant - INFO - Generating greeting message
+2026-02-25 09:22:28 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:22:29 - cantell_assistant - INFO - Extracting text from PDF file
+2026-02-25 09:22:29 - cantell_assistant - INFO - PDF has 1 pages
+2026-02-25 09:22:29 - cantell_assistant - DEBUG - Extracted 1778 characters from page 1
+2026-02-25 09:22:29 - cantell_assistant - INFO - Successfully extracted 1778 characters from PDF
+2026-02-25 09:22:29 - cantell_assistant - INFO - Gemini model initialized successfully
+2026-02-25 09:22:29 - cantell_assistant - INFO - Summarizing text of length 1778 characters
+2026-02-25 09:22:29 - cantell_assistant - DEBUG - Returning personality prompt
+2026-02-25 09:23:01 - cantell_assistant - INFO - Successfully generated summary of 3137 characters
+2026-02-25 09:24:33 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:24:34 - cantell_assistant - INFO - Fetching article from URL: https://developersinvogue.org/my-journey-to-mest/
+2026-02-25 09:24:37 - cantell_assistant - INFO - Successfully fetched URL, status code: 200
+2026-02-25 09:24:37 - cantell_assistant - INFO - Successfully extracted 4506 characters from URL
+2026-02-25 09:24:37 - cantell_assistant - INFO - Summarizing text of length 4533 characters
+2026-02-25 09:24:37 - cantell_assistant - DEBUG - Returning personality prompt
+2026-02-25 09:25:01 - cantell_assistant - INFO - Successfully generated summary of 2823 characters
+2026-02-25 09:26:00 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:26:00 - cantell_assistant - INFO - Chat message received: Hi...
+2026-02-25 09:26:00 - cantell_assistant - DEBUG - Returning personality prompt
+2026-02-25 09:27:02 - cantell_assistant - INFO - Successfully generated chat response
+2026-02-25 09:29:53 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:29:53 - cantell_assistant - INFO - Fetching article from URL: https://developersinvogue.org/my-journey-to-mest/
+2026-02-25 09:29:55 - cantell_assistant - INFO - Successfully fetched URL, status code: 200
+2026-02-25 09:29:55 - cantell_assistant - INFO - Successfully extracted 4506 characters from URL
+2026-02-25 09:29:55 - cantell_assistant - INFO - Gemini model initialized successfully
+2026-02-25 09:29:55 - cantell_assistant - INFO - Summarizing text of length 4533 characters
+2026-02-25 09:29:55 - cantell_assistant - DEBUG - Returning personality prompt
+2026-02-25 09:29:59 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:30:00 - cantell_assistant - INFO - Fetching article from URL: https://developersinvogue.org/my-journey-to-mest/
+2026-02-25 09:30:02 - cantell_assistant - INFO - Successfully fetched URL, status code: 200
+2026-02-25 09:30:02 - cantell_assistant - INFO - Successfully extracted 4506 characters from URL
+2026-02-25 09:30:02 - cantell_assistant - INFO - Summarizing text of length 4533 characters
+2026-02-25 09:30:02 - cantell_assistant - DEBUG - Returning personality prompt
+2026-02-25 09:30:21 - cantell_assistant - INFO - Successfully generated summary of 2753 characters
+2026-02-25 09:30:34 - cantell_assistant - INFO - Successfully generated summary of 2865 characters
+2026-02-25 09:30:52 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:30:53 - cantell_assistant - INFO - Extracting text from PDF file
+2026-02-25 09:30:53 - cantell_assistant - INFO - PDF has 1 pages
+2026-02-25 09:30:53 - cantell_assistant - DEBUG - Extracted 1778 characters from page 1
+2026-02-25 09:30:53 - cantell_assistant - INFO - Successfully extracted 1778 characters from PDF
+2026-02-25 09:30:53 - cantell_assistant - INFO - Summarizing text of length 1778 characters
+2026-02-25 09:30:53 - cantell_assistant - DEBUG - Returning personality prompt
+2026-02-25 09:31:17 - cantell_assistant - INFO - Successfully generated summary of 2794 characters
+2026-02-25 09:31:43 - cantell_assistant - INFO - Starting EIT Assistant application
+2026-02-25 09:31:43 - cantell_assistant - INFO - Chat message received: Hello, how are you...
+2026-02-25 09:31:43 - cantell_assistant - DEBUG - Returning personality prompt
+2026-02-25 09:32:03 - cantell_assistant - INFO - Successfully generated chat response
